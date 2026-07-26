@@ -1,0 +1,68 @@
+const movies = [
+  {
+    id: 1,
+    title: "Inception",
+    year: 2010,
+    genre: "Sci-Fi",
+    rating: 8.8,
+    director: "Christopher Nolan",
+  },
+  {
+    id: 2,
+    title: "Interstellar",
+    year: 2014,
+    genre: "Sci-Fi",
+    rating: 8.7,
+    director: "Christopher Nolan",
+  },
+  {
+    id: 3,
+    title: "The Dark Knight",
+    year: 2008,
+    genre: "Action",
+    rating: 9.0,
+    director: "Christopher Nolan",
+  },
+  {
+    id: 4,
+    title: "Avatar",
+    year: 2009,
+    genre: "Adventure",
+    rating: 7.9,
+    director: "James Cameron",
+  },
+  {
+    id: 5,
+    title: "Titanic",
+    year: 1997,
+    genre: "Drama",
+    rating: 7.8,
+    director: "James Cameron",
+  },
+  {
+    id: 6,
+    title: "Joker",
+    year: 2019,
+    genre: "Crime",
+    rating: 8.5,
+    director: "Todd Phillips",
+  },
+  {
+    id: 7,
+    title: "Avengers: Endgame",
+    year: 2019,
+    genre: "Action",
+    rating: 8.4,
+    director: "Russo Brothers",
+  },
+  {
+    id: 8,
+    title: "Iron Man",
+    year: 2008,
+    genre: "Action",
+    rating: 7.9,
+    director: "Jon Favreau",
+  },
+];
+
+export default movies;

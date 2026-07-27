@@ -96,6 +96,13 @@ Coverage achieved:
 | Branches | 100% |
 
 ---
+# Preview
+<img width="1080" height="497" alt="Screenshot 2026-07-25 181344" src="https://github.com/user-attachments/assets/c0ba0edf-7fd4-45bf-ab2a-2c389f7fa033" />
+<img width="1266" height="680" alt="Screenshot 2026-07-25 181354" src="https://github.com/user-attachments/assets/1f1b0ad6-4b66-4e9a-8b79-69b5f466fe66" />
+<img width="1878" height="905" alt="Screenshot 2026-07-27 140649" src="https://github.com/user-attachments/assets/0a696adf-38ef-4f34-97bb-c4c56f057b57" />
+<img width="1897" height="902" alt="Screenshot 2026-07-27 140708" src="https://github.com/user-attachments/assets/09833d08-9262-4a46-8ed0-9a4ffa99245c" />
+<img width="1893" height="906" alt="Screenshot 2026-07-27 140726" src="https://github.com/user-attachments/assets/ffb6ec03-6325-44bf-8f2a-a2a243cf322e" />
+<img width="1887" height="906" alt="Screenshot 2026-07-27 140742" src="https://github.com/user-attachments/assets/db22e183-d427-4322-8e16-b24755de9a16" />
 
 # 🧪 Test Suites
 

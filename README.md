@@ -8,9 +8,7 @@ This project was developed as part of **Sprint 11 – Unit & Component Testing (
 
 ## 🚀 Live Demo
 
-**Vercel:** https://your-vercel-link.vercel.app
-
-**GitHub:** https://github.com/yourusername/qa-automation-dashboard
+**Vercel:** https://qa-automation-dashboard-84tv.vercel.app
 
 ---
 
@@ -234,66 +232,6 @@ npm test -- --coverage
 
 ---
 
-# 📊 Sprint Deliverables
-
-## ✅ Phase 1 (P0)
-
-Environment Setup
-
-- Jest configured
-- React Testing Library configured
-
-Unit Tests
-
-- Button
-- Card
-- SearchInput
-
-Execution Criteria
-
-- Component rendering
-- Props rendering
-- No crashes
-
-✔ Completed
-
----
-
-## ✅ Phase 2 (P1)
-
-Event Simulation
-
-Implemented
-
-- Increment
-- Decrement
-- Reset
-- Input typing
-
-Execution Criteria
-
-DOM updates correctly after interactions.
-
-✔ Completed
-
----
-
-## ✅ Phase 3 (P2)
-
-Network Mocking
-
-Implemented for MovieList component.
-
-Coverage
-
-- Statements > 70%
-- Functions > 90%
-- Branches 100%
-
-✔ Completed
-
----
-
 # 🎯 Learning Outcomes
 
 This project demonstrates
@@ -346,13 +284,8 @@ Then
 
 # 👨‍💻 Author
 
-**Piyush Kumar**
+**Vansh Bansal**
 
-Frontend Developer | QA Automation Enthusiast
-
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://linkedin.com/in/yourprofile
 
 ---
 
